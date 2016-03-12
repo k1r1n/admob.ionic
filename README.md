@@ -1,3 +1,3 @@
 # admob+ionic 
 # install the plugin
-ionic plugin add cordova-plugin-admobpro
+> ionic plugin add cordova-plugin-admobpro
